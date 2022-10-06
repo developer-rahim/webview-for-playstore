@@ -33,7 +33,7 @@ dependencies:
     sdk: flutter
   webview_flutter: ^3.0.4
   flutter_app_name: ^0.1.0
-  webview_flutter_upload: ^0.2.0
+  
 flutter_app_name:
   name: "TAMAM SELLER'S LAB"
   

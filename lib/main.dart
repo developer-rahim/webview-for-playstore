@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:webview_flutter/webview_flutter.dart';
-import 'package:webview_flutter_upload/platform_interface.dart';
-import 'package:webview_flutter_upload/webview_flutter.dart';
+
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
